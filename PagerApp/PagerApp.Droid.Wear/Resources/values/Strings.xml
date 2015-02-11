@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">PagerApp.Droid.Wear</string>
+	<string name="title_customer_name">Name</string>
+	<string name="title_customer_address">Address</string>
+	<string name="title_allergy_info">Allergy Info</string>
+	<string name="title_items">Order</string>
+	<string name="late_message">+20 mins</string>
+	<string name="late_notification_successful">Customer notified</string>
+	<string name="late_confirmation_title">Late</string>
+	<string name="late_confirmation_details">Notifying customer...</string>
+	<string name="label_cancel">Cancel</string>
+</resources>
